@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Ana Sayfa -->
+  <url>
+    <loc>https://sites.google.com/view/yalcinkir/ana-sayfa-i-home</loc>
+    <lastmod>2025-09-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Türkçe Sayfalar -->
+  <url><loc>https://sites.google.com/view/yalcinkir/türkçe/hakkımda</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sites.google.com/view/yalcinkir/türkçe/yalçın-kır-şarkıları</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sites.google.com/view/yalcinkir/türkçe/yalçın-kır-türküler</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sites.google.com/view/yalcinkir/türkçe/hikayelerim</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sites.google.com/view/yalcinkir/türkçe/oyunlarım</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sites.google.com/view/yalcinkir/türkçe/fotoğraflar</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sites.google.com/view/yalcinkir/türkçe/iletişim</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <!-- English Pages -->
+  <url><loc>https://sites.google.com/view/yalcinkir/english/about-me</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sites.google.com/view/yalcinkir/english/anatolian-folk-music</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://sites.google.com/view/yalcinkir/english/my-stories</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sites.google.com/view/yalcinkir/english/essays-i-articles</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sites.google.com/view/yalcinkir/english/my-videos</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sites.google.com/view/yalcinkir/english/my-games</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sites.google.com/view/yalcinkir/english/photos</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://sites.google.com/view/yalcinkir/english/contact</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+</urlset>
