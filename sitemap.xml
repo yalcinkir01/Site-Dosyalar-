@@ -1,31 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <!-- Ana Sayfa -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sites.google.com/view/yalcinkir/ana-sayfa-i-home</loc>
-    <lastmod>2025-09-07</lastmod>
+    <loc>https://www.yalcinkir.com/ana-sayfa-i-home</loc>
+    <lastmod>2025-09-22</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <priority>1.00</priority>
   </url>
 
-  <!-- Türkçe Sayfalar -->
-  <url><loc>https://sites.google.com/view/yalcinkir/türkçe/hakkımda</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://sites.google.com/view/yalcinkir/türkçe/yalçın-kır-şarkıları</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://sites.google.com/view/yalcinkir/türkçe/yalçın-kır-türküler</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://sites.google.com/view/yalcinkir/türkçe/hikayelerim</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://sites.google.com/view/yalcinkir/türkçe/oyunlarım</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://sites.google.com/view/yalcinkir/türkçe/fotoğraflar</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://sites.google.com/view/yalcinkir/türkçe/iletişim</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <!-- Hakkımda / About -->
+  <url>
+    <loc>https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/hakk%C4%B1mda</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/hakk%C4%B1mda"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yalcinkir.com/english/about-me"/>
+  </url>
+  <url>
+    <loc>https://www.yalcinkir.com/english/about-me</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/hakk%C4%B1mda"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yalcinkir.com/english/about-me"/>
+  </url>
 
-  <!-- English Pages -->
-  <url><loc>https://sites.google.com/view/yalcinkir/english/about-me</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://sites.google.com/view/yalcinkir/english/anatolian-folk-music</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://sites.google.com/view/yalcinkir/english/my-stories</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://sites.google.com/view/yalcinkir/english/essays-i-articles</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://sites.google.com/view/yalcinkir/english/my-videos</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://sites.google.com/view/yalcinkir/english/my-games</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://sites.google.com/view/yalcinkir/english/photos</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://sites.google.com/view/yalcinkir/english/contact</loc><lastmod>2025-09-07</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <!-- Şarkılar / My Song -->
+  <url>
+    <loc>https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/yal%C3%A7%C4%B1n-k%C4%B1r-%C5%9Fark%C4%B1lar%C4%B1</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/yal%C3%A7%C4%B1n-k%C4%B1r-%C5%9Fark%C4%B1lar%C4%B1"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yalcinkir.com/english/my-song"/>
+  </url>
+  <url>
+    <loc>https://www.yalcinkir.com/english/my-song</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/yal%C3%A7%C4%B1n-k%C4%B1r-%C5%9Fark%C4%B1lar%C4%B1"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yalcinkir.com/english/my-song"/>
+  </url>
 
+  <!-- Türküler / Anatolian Folk Music -->
+  <url>
+    <loc>https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/yal%C3%A7%C4%B1n-k%C4%B1r-t%C3%BCrk%C3%BCler</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/yal%C3%A7%C4%B1n-k%C4%B1r-t%C3%BCrk%C3%BCler"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yalcinkir.com/english/anatolian-folk-music"/>
+  </url>
+  <url>
+    <loc>https://www.yalcinkir.com/english/anatolian-folk-music</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/yal%C3%A7%C4%B1n-k%C4%B1r-t%C3%BCrk%C3%BCler"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yalcinkir.com/english/anatolian-folk-music"/>
+  </url>
+
+  <!-- Videolar / My Videos -->
+  <url>
+    <loc>https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/videolar</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/videolar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yalcinkir.com/english/my-videos"/>
+  </url>
+  <url>
+    <loc>https://www.yalcinkir.com/english/my-videos</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/videolar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yalcinkir.com/english/my-videos"/>
+  </url>
+
+  <!-- Fotoğraflar / Photos -->
+  <url>
+    <loc>https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/foto%C4%9Fraflar</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/foto%C4%9Fraflar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yalcinkir.com/english/photos"/>
+  </url>
+  <url>
+    <loc>https://www.yalcinkir.com/english/photos</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/foto%C4%9Fraflar"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yalcinkir.com/english/photos"/>
+  </url>
+
+  <!-- Hikayeler / My Stories -->
+  <url>
+    <loc>https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/hikayelerim</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/hikayelerim"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yalcinkir.com/english/my-stories"/>
+  </url>
+  <url>
+    <loc>https://www.yalcinkir.com/english/my-stories</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/hikayelerim"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yalcinkir.com/english/my-stories"/>
+  </url>
+
+  <!-- İletişim / Contact -->
+  <url>
+    <loc>https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/ileti%C5%9Fim</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.60</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/ileti%C5%9Fim"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yalcinkir.com/english/contact"/>
+  </url>
+  <url>
+    <loc>https://www.yalcinkir.com/english/contact</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.60</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.yalcinkir.com/t%C3%BCrk%C3%A7e/ileti%C5%9Fim"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.yalcinkir.com/english/contact"/>
+  </url>
 </urlset>
